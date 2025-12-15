@@ -25,7 +25,7 @@ Each template is self-contained in its own directory. Simply:
 
 ## 📝 License
 
-Open-source templates for personal and commercial use.
+Templates for personal and commercial use.
 
 ---
 
